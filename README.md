@@ -6,7 +6,7 @@
 
 <p align="middle">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Trend20&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&show_icons=true&theme=gotham" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/langs?username=Trend20&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Trend20" align = "center"/></p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top_langs?username=Trend20&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Trend20" align = "center"/></p>
 
 Here are some ideas to get you started:
 
