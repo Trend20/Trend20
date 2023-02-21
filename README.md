@@ -1,4 +1,4 @@
-### Hello Visitor, I'm [Enock Omondi](https://devenockio.netlify.app/)
+### Hello Visitor, I'm [Enock Omondi](https://devnoki.netlify.app/)
 
 ### I am glad to see you around.
 
