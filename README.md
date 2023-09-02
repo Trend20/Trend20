@@ -1,8 +1,8 @@
+### Hello Visitor, I'm [Enock Omondi](https://devnoki.netlify.app/)
+
 <p>  
 <a href="https://app.daily.dev/devenock"><img src="https://github.com/Trend20/Trend20/blob/master/devcard.svg" width="400" alt="Enock Omondi's Dev Card"/></a>
 </p>
-
-### Hello Visitor, I'm [Enock Omondi](https://devnoki.netlify.app/)
 
 <p>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Trend20&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&show_icons=true&theme=gotham" align = "center"/>
