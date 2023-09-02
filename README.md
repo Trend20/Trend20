@@ -1,10 +1,10 @@
+<p>
 ### Hello Visitor, I'm [Enock Omondi](https://devnoki.netlify.app/)
-
-### I am glad to see you around.
-
-<p align="center">
   
 <a href="https://app.daily.dev/devenock"><img src="https://github.com/Trend20/Trend20/blob/master/devcard.svg" width="400" alt="Enock Omondi's Dev Card"/></a>
+</p>
+
+<p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Trend20&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&show_icons=true&theme=gotham" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Trend20&langs_count=8&show_icons=true&locale=en&layout=compact&hide_border=true&theme=gotham" alt="Trend20" align = "center"/>
 </p>
