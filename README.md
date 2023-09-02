@@ -1,6 +1,5 @@
-<p>
 ### Hello Visitor, I'm [Enock Omondi](https://devnoki.netlify.app/)
-  
+<p>  
 <a href="https://app.daily.dev/devenock"><img src="https://github.com/Trend20/Trend20/blob/master/devcard.svg" width="400" alt="Enock Omondi's Dev Card"/></a>
 </p>
 
