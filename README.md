@@ -11,7 +11,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working [Dev Ring](https://github.com/Trend20/Dev-Ring).
+- 🔭 I’m currently building [Dev Ring](https://github.com/Trend20/Dev-Ring).
 - 🌱 I’m currently learning Typescript, React Native and NestJS.
 - 👯 I’m looking to collaborate on Javascript projects.
 - 🤔 I’m looking for help with Data Structures and Algorithms.
