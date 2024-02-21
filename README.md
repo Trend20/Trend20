@@ -11,8 +11,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently building [Dev Ring](https://github.com/Trend20/Dev-Ring).
-- 🌱 I’m currently learning Typescript, React Native and NestJS.
+- 🔭 I’m currently building [OpenGet].
+- 🌱 I’m currently learning DevOps.
 - 👯 I’m looking to collaborate on Javascript projects.
 - 🤔 I’m looking for help with Data Structures and Algorithms.
 - 💬 Ask me about Javascript, Typescript, Node, React and NestJS.
