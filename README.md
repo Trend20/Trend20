@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently building **OpenGet**.
 - 🌱 I’m currently learning DevOps.
 - 👯 I’m looking to collaborate on Javascript projects.
-- 🤔 I’m looking for help with Data Structures and Algorithms.
-- 💬 Ask me about Javascript, Typescript, Node, React and NestJS.
+- 🤔 I’m looking for help with **Golang**.
+- 💬 Ask me about Javascript, Typescript, React and NextJS.
 - 📫 How to reach me: enockomondi305@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love mentoring Beginners.
