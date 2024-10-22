@@ -11,14 +11,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently building **OpenGet**.
-- 🌱 I’m currently learning DevOps.
+- 🔭 I’m currently building **[apitestdoc](https://trend20.github.io/apitestdoc/)**.
+- 🌱 I’m currently learning Distributed Systems.
 - 👯 I’m looking to collaborate on Javascript projects.
-- 🤔 I’m looking for help with **Golang**.
-- 💬 Ask me about Javascript, Typescript, React and NextJS.
+- 🤔 I’m looking for help with **Databases**.
+- 💬 Ask me about React, NestJS and Golang.
 - 📫 How to reach me: enockomondi305@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love mentoring Beginners.
+- ⚡ Fun fact: Outside code, I'm a chef.
 
 <summary><b>🔥 Github Streaks</b></summary>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Trend20&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Trend20" /></p>
