@@ -1,12 +1,12 @@
 ### Hello Visitor, I'm [Enock Omondi](https://devnoki.netlify.app/)
 
 <p>  
-<a href="https://app.daily.dev/devenock"><img src="https://github.com/Trend20/Trend20/blob/master/devcard.svg" width="400" alt="Enock Omondi's Dev Card"/></a>
+<a href="https://app.daily.dev/devenock"><img src="https://github.com/devenock/devenock/blob/master/devcard.svg" width="400" alt="Enock Omondi's Dev Card"/></a>
 </p>
 
 <p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Trend20&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&show_icons=true&theme=gotham" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Trend20&langs_count=8&show_icons=true&locale=en&layout=compact&hide_border=true&theme=gotham" alt="Trend20" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devenock&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&show_icons=true&theme=gotham" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=devenock&langs_count=8&show_icons=true&locale=en&layout=compact&hide_border=true&theme=gotham" alt="Trend20" align = "center"/>
 </p>
 
 Here are some ideas to get you started:
@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Outside code, I'm a chef.
 
 <summary><b>🔥 Github Streaks</b></summary>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Trend20&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Trend20" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=devenock&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="devenock" /></p>
 
